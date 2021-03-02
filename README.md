@@ -42,6 +42,5 @@ git clone https://github.com/Raymond-Lind/SFM
 This is a File System stored in memory. Meaning any directories or files made in the program will disappear after the program is closed.
 Users should know this and keep it in mind throughout the duration of the script.
 
-## Finally
 
 Enjoy!
