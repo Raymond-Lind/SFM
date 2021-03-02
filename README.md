@@ -1,6 +1,6 @@
 # SFM
-SFM is a Simulated File System made with Python.
-
+SFM is a Simulated File System made with Python. 
+(Directories will be green, meaning you can cd into them. Files will be white, meaning their an endpoint.)
 # Program Usage
 Make a directory:
 ```
@@ -43,3 +43,7 @@ This is a File System stored in memory. Meaning any directories or files made in
 Users should remember this throughout the duration of the script.
 
 Enjoy!
+
+### Extra
+
+If you want to have a simpler version of code without advanced user features or don't enjoy the colors in code, you can use SFM_nocolor.py
