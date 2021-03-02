@@ -2,18 +2,30 @@
 SFM is a Simulated File System made with Python.
 
 # Script Usage
-### mkdir
 Make a directory
-### touch
+```bash
+mkdir "DirectoryName
+```
 Make a file
-### ls
+```bash
+touch "FileName"
+```
 List content of directory
-### cd
+```bash
+ls
+```
 Open Directory
-### help
+```bash
+cd "DirectoryName"
+```
 Shows commands with their actions
-### usage
+```bash
+help
+```
 Shows commands and how to use them
+```bash
+usage
+```
 
 # Set-up
 ### If using in your own interpreter:
