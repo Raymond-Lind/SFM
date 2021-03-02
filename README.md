@@ -1,7 +1,7 @@
 # SFM
 SFM is a Simulated File System made with Python.
 
-# Script Usage
+# Program Usage
 Make a directory:
 ```
 mkdir "DirectoryName"
