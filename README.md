@@ -49,5 +49,4 @@ If you want to have a simpler version of code without advanced user features or 
 
 Enjoy!
 
-Created by: Raymond Lind 
-https://github.com.Raymond-Lind
+Created by: Raymond Lind
