@@ -31,12 +31,18 @@ usage
 # Set-up
 
 ### If using in your own interpreter:
-Copy code from SFM.py and paste into your file.
+Copy code from SFM.py and paste into your interpreter for use.
 
 ### If using in Linux/Ubuntu:
 
 ```bash
-git clone https://github.com/Raymond-Lind/SFM
+git clone https://github.com/Raymond-Lind/SFM.git
+```
+```bash
+cd SFM
+```
+```bash
+python3 SFM.py
 ```
 # Important
 
