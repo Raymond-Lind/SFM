@@ -1,2 +1,2 @@
 # Simulated-File-System
-File System Stored in Memory
+File System that is stored in memory
