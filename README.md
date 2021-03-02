@@ -43,8 +43,8 @@ git clone https://github.com/Raymond-Lind/SFM
 This is a File System stored in memory. Meaning any directories or files made in the program will disappear after the program is closed.
 Users should remember this throughout the duration of the script.
 
-Enjoy!
-
 ## Extra
 
 If you want to have a simpler version of code without advanced user features or don't enjoy the colors in code, you can use SFM_nocolor.py
+
+Enjoy!
