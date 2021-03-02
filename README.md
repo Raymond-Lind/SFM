@@ -1,5 +1,4 @@
 # SFM ("Simulated File System")
-By: Raymond Lind
 ### SFM is a Simulated File System made with Python. 
 ##### Directories will be green, meaning you can cd into them.
 ##### Files will be white, meaning their an endpoint.
@@ -49,3 +48,6 @@ Users should remember this throughout the duration of the script.
 If you want to have a simpler version of code without advanced user features or don't enjoy the colors in code, you can use SFM_nocolor.py
 
 Enjoy!
+
+Created by: Raymond Lind 
+https://github.com.Raymond-Lind
