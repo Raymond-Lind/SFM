@@ -1,6 +1,6 @@
 # SFM ("Simulated File System")
-### SFM is a Simulated File System made with Python. 
 By: Raymond Lind
+### SFM is a Simulated File System made with Python. 
 ##### Directories will be green, meaning you can cd into them.
 ##### Files will be white, meaning their an endpoint.
 # Program Usage
