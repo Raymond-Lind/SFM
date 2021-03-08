@@ -62,13 +62,23 @@ if __name__ == '__main__':
         # Creates touch command capability in loop
         if command[0] == 'touch':
             try:
+                for files in current.file:
+                    for key in files:
+                        if command[1] == key:
+                            print("Timestamp for " + command[
+                                1] + " has been updated.")
+                            current.file.remove(files)
                 touch(command[1])
-            except: # Error handling in touch requests
+            except:  # Error handling in touch requests
                 print('--------------\nError in usage\n--------------\nTry: touch FileName\n')
 
         # Creates mkdir command capability in loop
         elif command[0] == 'mkdir':
             try:
+                for dirs in current.directory:
+                    if command[1] == dirs.name:
+                        print("This directory name already exists. Try a different name.")
+                        current.directory.remove(dirs)
                 mkdir(command[1])
             except: # Error handling in mkdir requests
                 print('--------------\nError in usage\n--------------\nTry: mkdir DirectoryName\n')
