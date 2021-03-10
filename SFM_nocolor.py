@@ -16,7 +16,7 @@ current = home
 # Name input to give user specialized experience
 entry = input('Please give me your name before entering the File System: ')
 print('\nHey {}, welcome to the File System!'.format(entry) + '\nType help for more information.\n')
-path = entry + '@Avanan:'
+path = entry + '@FileSystem:'
 
 # Function to create a file
 def touch(name):
