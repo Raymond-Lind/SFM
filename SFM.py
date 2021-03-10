@@ -23,7 +23,7 @@ reset = '\033[0m'
 # Name input to give user specialized experience
 entry = input('Please give me your name before entering the File System: ')
 print(blue + '\nHey {}, welcome to the File System!'.format(entry) + reset + '\nType' + green + ' help' + reset + ' for more information.\n')
-path = blue + entry + '@Avanan:' + reset
+path = blue + entry + '@FileSystem:' + reset
 
 # Function to create a file
 def touch(name):
